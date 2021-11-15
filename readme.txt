@@ -1,0 +1,4 @@
+i) The Home Page should contain 1 video with a big size in a row & another 4 videos in normal size in the next row. The Videos should be able to play there.
+ii) The Video Page should contain atleast 16 videos with 4 in each row. User should be able to play there but there should be a button "Open in Youtube" with each, on clicking that, it should open the video in youtube.
+iii) The About Page should contain your channel information.  E.g. https://www.youtube.com/channel/UCDaHgLM5jGNMi_SLxcJ-luw/about?view_as=subscriber
+iv) On clicking UPLOAD icon on the top right. There should open an upload page, allow user to upload any video file.
